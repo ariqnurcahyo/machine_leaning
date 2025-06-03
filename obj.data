@@ -1,0 +1,5 @@
+classes= 7
+train  = /content/drive/MyDrive/file_weight/train.txt
+valid  = /content/drive/MyDrive/file_weight/test.txt
+names  = /content/drive/MyDrive/file_weight/obj.names
+backup = /content/drive/MyDrive/file_weight/backup/
